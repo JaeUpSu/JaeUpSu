@@ -15,3 +15,15 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://JaeUpSu.github.io/)](https://JaeUpSu.github.io/)
 
+
+
+
+
+### Summarizing the experience
+
+ - I have experience in creating an running app using Java with android studio
+                                 an MVC using Java with IntelliJ
+                                 an Landing page using JS/HTML/CSS with vs code
+                                 an DB using Django & Flask, a Python Framework with vs code  
+                                 and using LightSail DB in AWS
+   
