@@ -21,9 +21,9 @@
 
 ### Summarizing the experience
 
- - I have experience in creating an running app using Java with android studio
-                                 an MVC using Java with IntelliJ
-                                 an Landing page using JS/HTML/CSS with vs code
-                                 an DB using Django & Flask, a Python Framework with vs code  
+ - I have experience in creating an running app using Java with android studio <br>
+                                 an MVC using Java with IntelliJ <br>
+                                 an Landing page using JS/HTML/CSS with vs code <br>
+                                 an DB using Django & Flask, a Python Framework with vs code <br> 
                                  and using LightSail DB in AWS
    
