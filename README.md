@@ -24,7 +24,7 @@
     
     - My main language is Python and I know how to use Java as well
     
-    - I have experience in creating an running app using Java with android studio
+    - I have experience in creating  an running app using Java with android studio
                                      an MVC using Java with IntelliJ 
                                      an Landing page using JS/HTML/CSS with vs code
                                      an DB using Django & Flask, a Python Framework with vs code
