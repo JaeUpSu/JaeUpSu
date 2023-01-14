@@ -6,7 +6,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info) &n&nbsp;bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info)
 
 
