@@ -16,7 +16,7 @@
 
 ### Summarizing the experience
 
-     - I graduated from 4 year college majoring in computer science.
+     - I graduated from 4 year college majoring in Computer Engineering
      - I have experience in creating an running app using Java with android studio
                                      an MVC using Java with IntelliJ 
                                      an Landing page using JS/HTML/CSS with vs code
