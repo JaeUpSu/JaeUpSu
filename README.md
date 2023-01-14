@@ -16,10 +16,18 @@
 
 ### Summarizing the experience
 
-     - I graduated from 4 year college majoring in Computer Engineering
-     - I have experience in creating an running app using Java with android studio
+    - I graduated from 4 year college majoring in Computer Engineering
+    
+    - I am a backend developer who knows how to do frontend
+    
+    - The goal is to be a full-stack developer
+    
+    - My main language is Python and I know how to use Java as well
+    
+    - I have experience in creating an running app using Java with android studio
                                      an MVC using Java with IntelliJ 
                                      an Landing page using JS/HTML/CSS with vs code
                                      an DB using Django & Flask, a Python Framework with vs code
                                      and using LightSail DB in AWS
-   
+    
+    
