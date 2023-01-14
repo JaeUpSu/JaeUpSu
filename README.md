@@ -11,9 +11,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info)
 
-<br>
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://JaeUpSu.github.io/)](https://JaeUpSu.github.io/)
 
 
 
