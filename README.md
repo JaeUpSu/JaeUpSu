@@ -19,11 +19,13 @@
 
     - I graduated from 4 year college majoring in Computer Engineering
     
-    - I am a backend developer who knows how to do frontend
+    - I am a frontend developer who knows how to do frontend
     
     - The goal is to be a full-stack developer
     
-    - My main language is Python and I know how to use Java as well
+    - My main language is typescript as well
+    
+    - My sub language is Python and I know how to use Java as well
     
     - I have experience in creating  an running app using Java with android studio
                                      an MVC using Java with IntelliJ 
