@@ -1,7 +1,7 @@
 
 # jaeupsu_info
 <div style={{display: "flex"}}>
-    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
