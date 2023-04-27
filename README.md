@@ -16,8 +16,12 @@
 
 ## Platform & Languages
 <div style={{display: "flex"}}>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-navy?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-navy?style=flat-square&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+    
 </div>
 
 ## Tools
@@ -26,7 +30,7 @@
 
     - I graduated from 4 year college majoring in Computer Engineering
     
-    - I am a frontend developer who knows how to do frontend
+    - I am a frontend developer who knows how to do backend
     
     - The goal is to be a full-stack developer
     
