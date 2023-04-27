@@ -1,7 +1,9 @@
 
 # jaeupsu_info
 <div style={{display: "flex"}}>
-    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    <a src="https://velog.io/@hugh0223"> 
+        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    </a>
     <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
@@ -91,16 +93,10 @@ and used Python in Django as a back end. 👏
     
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/JaeUpSu/jaeupsu_info">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu&layout=compact" />
-    </a>
-    <a href="https://github.com/JaeUpSu/jaeupsu_info">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&line_height=27&count_private=true" alt="JaeUpSu's GitHub Stats" />
     </a>
+    <a href="https://github.com/JaeUpSu/jaeupsu_info">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu&layout=compact" />
+    </a>
 </div>
 
-
-
-<div style={{display: "flex"}}>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info) &nbsp;&nbsp;&nbsp;
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu)](https://github.com/JaeUpSu/jaeupsu_info)
-</div>
