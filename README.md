@@ -43,13 +43,18 @@
 
 ### Tools
 <div style={{display: "flex"}}>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5900?style=flat-square&logo=React_Hook_Form&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=Recoil&logoColor=white"/>    
-    <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=Recoil&logoColor=white"/>  
     <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>    
+</div>
+
+<br/>
+
+<div style={{display: "flex"}}>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>  
 </div>
 
 <br/>
