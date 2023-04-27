@@ -6,11 +6,13 @@
     <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 
-👋 Hi there! I'm web `Front end developer` using React 😀
+<br/><br/>
+
+👋 Hi there! I'm web `Front end developer` using React 😀 <br/>
 I develop with typescript and Next js.
 
-🤓 And until I graduated from university, 
-I mainly dealt with Java in Android apps 
+🤓 And until I graduated from university, <br/>
+I mainly dealt with Java in Android apps <br/>
 and used Python in Django as a back end. 👏
 
 <br/>
