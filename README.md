@@ -8,14 +8,14 @@
 
 <br/><br/>
 
-<p style={{fontSize: "39px"}}>
+<h2>
 👋 Hi there! I'm web `Front end developer` using React 😀 <br/>
 I develop with typescript and Next js.
 
 🤓 And until I graduated from university, <br/>
 I mainly dealt with Java in Android apps <br/>
 and used Python in Django as a back end. 👏
-</p>
+</h2>
     
 <br/>
 
