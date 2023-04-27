@@ -119,22 +119,18 @@ and used Python in Django as a back end. 👏
        📰 MyInfo : It can be requested using Discord bot and implemented with web, React and Django to introduce myself.
     </a>
     <br/>
-    
     <a color="black"  href="https://github.com/JaeUpSu/if-dog-tendency-test">
        🐕 If i am dog : A web that shows the type of dog that suits my personality, created using React and Firebase.
     </a>
     <br/>
-    
     <a color="black"  href="https://github.com/JaeUpSu/next-ts">
        🕶️ Nomad Movies Clone Coding : During the Nomad lecture, I brought Movies API, used Recoil, Next js and Typescript and implemented ssr.
     </a>
     <br/>
-    
     <a color="black"  href="https://github.com/JaeUpSu/typescript-training">
        🏢 Bangsam : It is a real estate chatting web created using React and Django, applying the structure of Jikbang and Coffee Shop and the style of Airbnb.
     </a>
     <br/>
-    
     <a color="black"  href="https://github.com/JaeUpSu/front-CMGG-project">
        👨‍🏫 Coding Garden : It is a lecture site and implemented a dashboard for data visualization from the perspectives of users, instructors, and administrators. 
                 And for platforms and tools, test codes using Typescript, Recoil, and jest libraries were written in React at the front, 
