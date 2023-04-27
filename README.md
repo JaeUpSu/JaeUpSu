@@ -4,6 +4,7 @@
     <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeUpSu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <br/><br/>
@@ -14,14 +15,15 @@
 I develop with typescript and Next js.
 </h2> <br/>
 
+<h3>
 🤓 And until I graduated from university, <br/>
 I mainly dealt with Java in Android apps <br/>
 and used Python in Django as a back end. 👏
 </h2>
     
-<br/>
+</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeUpSu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
 
 <br>
 
