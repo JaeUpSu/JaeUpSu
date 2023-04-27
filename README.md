@@ -98,6 +98,9 @@ and used Python in Django as a back end. 👏
                                      an DB using Django & Flask, a Python Framework with vs code
                                      and using LightSail DB in AWS
     
+<br/>
+<br/>
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://github.com/JaeUpSu/jaeupsu_info">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&line_height=27&count_private=true" alt="JaeUpSu's GitHub Stats" />
