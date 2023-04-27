@@ -42,7 +42,7 @@ and used Python in Django as a back end. 👏
 ## 🦾 Skills
 
 ### Platform & Languages
-<div style={{display: "flex"}}>
+<div style={{display: "flex", width: "100%", justifyContent: "center" }}>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
