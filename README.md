@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<p style={{fontSize: "19px"}}>
+<p style={{fontSize: "39px"}}>
 👋 Hi there! I'm web `Front end developer` using React 😀 <br/>
 I develop with typescript and Next js.
 
