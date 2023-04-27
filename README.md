@@ -112,30 +112,43 @@ and used Python in Django as a back end. 👏
  
 <div>
     <a color="black"  href="https://velog.io/@hugh0223/MyInfo-%EB%82%98%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-Web">
-       🏃‍♂️ Runner 8 : Running race diet app using Google GPS, Naver map and Firebase working with Java in Android Studio.
+       🏃‍♂️ Runner 8
     </a>
     <br/>
+    Running race diet app using Google GPS, Naver map and Firebase working with Java in Android Studio.
+        <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/hscode_info">
-       📰 MyInfo : It can be requested using Discord bot and implemented with web, React and Django to introduce myself.
+       📰 MyInfo
     </a>
     <br/>
+     It can be requested using Discord bot and implemented with web, React and Django to introduce myself.
+        <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/if-dog-tendency-test">
-       🐕 If i am dog : A web that shows the type of dog that suits my personality, created using React and Firebase.
+       🐕 If i am dog 
     </a>
     <br/>
+    A web that shows the type of dog that suits my personality, created using React and Firebase.
+            <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/next-ts">
-       🕶️ Nomad Movies Clone Coding : During the Nomad lecture, I brought Movies API, used Recoil, Next js and Typescript and implemented ssr.
+       🕶️ Nomad Movies Clone Coding    
     </a>
     <br/>
+    During the Nomad lecture, I brought Movies API, used Recoil, Next js and Typescript and implemented ssr.
+        <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/typescript-training">
-       🏢 Bangsam : It is a real estate chatting web created using React and Django, applying the structure of Jikbang and Coffee Shop and the style of Airbnb.
+       🏢 Bangsam 
     </a>
     <br/>
+     It is a real estate chatting web created using React and Django, applying the structure of Jikbang and Coffee Shop and the style of Airbnb.
+      <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/front-CMGG-project">
-       👨‍🏫 Coding Garden : It is a lecture site and implemented a dashboard for data visualization from the perspectives of users, instructors, and administrators. 
+       👨‍🏫 Coding Garden :
+    </a>
+     <br/> 
+     It is a lecture site and implemented a dashboard for data visualization from the perspectives of users, instructors, and administrators. 
                 And for platforms and tools, test codes using Typescript, Recoil, and jest libraries were written in React at the front, 
                 and Django, Docker, and jenkins were connected at the back. Performance was monitored through sentry.
-    </a>
+          <br/>    <br/>
 </div>
     
 <br/>
