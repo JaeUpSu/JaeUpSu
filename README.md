@@ -9,9 +9,8 @@
 <br/><br/>
 
 <h2>
-    👋 Hi there! I'm web <p>`Front end developer`</p> using React 😀
-</h2> <br/>
-    <h2>
+    👋 Hi there! I'm web Front end developer  using React 😀
+
 I develop with typescript and Next js.
 </h2> <br/>
 
