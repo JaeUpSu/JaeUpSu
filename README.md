@@ -1,6 +1,13 @@
 
 # jaeupsu_info
+<div style={{display: "flex"}}>
+    <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</div>
 
+
+<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaeUpSu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -12,15 +19,17 @@
 
 
 
-# 🦾 Skills
+## 🦾 Skills
 
-## Platform & Languages
+### Platform & Languages
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 </div>
+
+<br/>
 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -32,7 +41,7 @@
 
 <br/>
 
-## Tools
+### Tools
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
@@ -40,6 +49,7 @@
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5900?style=flat-square&logo=React_Hook_Form&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat-square&logo=Recoil&logoColor=white"/>    
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>    
 </div>
 
 <br/>
