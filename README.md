@@ -5,10 +5,10 @@
         <img align="center" src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EA%B9%80-935955270/"> 
-        <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+        <img align="center" src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="mailto:hyeongs2323@gmail.com"> 
-      <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+      <img align="center" src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </div>
 
