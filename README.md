@@ -104,7 +104,7 @@ and used Python in Django as a back end. 👏
                                      an MVC using Java with IntelliJ 
                                      many Webs using React with Next.js/Typescript/Jest/Recoil etc..
                                      an DB using Django & Flask, a Python Framework with vs code
-                                     and using LightSail, EC2 DB in AWS
+                                     toy project using LightSail, EC2 DB in AWS
     
 <br/>
 <br/>
