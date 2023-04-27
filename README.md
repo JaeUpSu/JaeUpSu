@@ -76,6 +76,13 @@ and used Python in Django as a back end. 👏
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>  
 </div>
+<br/>
+
+### Communication
+<div style={{display: "flex"}}>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
+</div>
 
 <br/>
 
