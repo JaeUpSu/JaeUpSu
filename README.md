@@ -9,8 +9,11 @@
 <br/><br/>
 
 <h2>
-👋 Hi there! I'm web `Front end developer` using React 😀 <br/>
+    👋 Hi there! I'm web <p>`Front end developer`</p> using React 😀
+</h2> <br/>
+    <h2>
 I develop with typescript and Next js.
+</h2> <br/>
 
 🤓 And until I graduated from university, <br/>
 I mainly dealt with Java in Android apps <br/>
