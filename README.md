@@ -14,6 +14,8 @@
 
 <h2>
     👋 Hi there! I'm web Front end developer  using React 
+</h2>
+<h2>
     😀I develop with typescript and Next js.
 </h2> <br/>
 
