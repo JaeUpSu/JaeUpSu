@@ -1,8 +1,8 @@
 
 # jaeupsu_info
 <div style={{display: "flex"}}>
-    <a src="https://velog.io/@hugh0223"> 
-        <img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    <a href="https://velog.io/@hugh0223"> 
+        <img align="center" src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     </a>
     <img src="https://img.shields.io/badge/HyeonsuKim-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
     <img src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -13,9 +13,8 @@
 <br/><br/>
 
 <h2>
-    👋 Hi there! I'm web Front end developer  using React 😀
-
-I develop with typescript and Next js.
+    👋 Hi there! I'm web Front end developer  using React 
+    😀I develop with typescript and Next js.
 </h2> <br/>
 
 <h3>
