@@ -135,7 +135,7 @@ and used Python in Django as a back end. 👏
     <br/>
     During the Nomad lecture, I brought Movies API, used Recoil, Next js and Typescript and implemented ssr.
         <br/>    <br/>
-    <a color="black"  href="https://github.com/JaeUpSu/typescript-training">
+    <a color="black"  href="https://github.com/JaeUpSu/chatting_front">
        🏢 Bangsam 
     </a>
     <br/>
