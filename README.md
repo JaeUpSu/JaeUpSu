@@ -70,12 +70,14 @@ and used Python in Django as a back end. 👏
 </div>
 
 <br/>
+<br/>
 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>  
 </div>
+<br/>
 <br/>
 
 ### 📢 Communication
@@ -84,6 +86,7 @@ and used Python in Django as a back end. 👏
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
 </div>
 
+<br/>
 <br/>
 
 ### 👨‍💻 Summarizing the experience
