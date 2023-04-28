@@ -142,7 +142,7 @@ and used Python in Django as a back end. 👏
      It is a real estate chatting web created using React and Django, applying the structure of Jikbang and Coffee Shop and the style of Airbnb.
       <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/front-CMGG-project">
-       👨‍🏫 Coding Garden :
+       👨‍🏫 Coding Garden 
     </a>
      <br/> 
      It is a lecture site and implemented a dashboard for data visualization from the perspectives of users, instructors, and administrators. 
