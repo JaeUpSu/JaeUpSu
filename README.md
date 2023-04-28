@@ -70,7 +70,6 @@ and used Python in Django as a back end. 👏
 </div>
 
 <br/>
-<br/>
 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
