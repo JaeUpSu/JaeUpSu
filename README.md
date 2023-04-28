@@ -132,10 +132,10 @@ and used Python in Django as a back end. 👏
     A web that shows the type of dog that suits my personality, created using React and Firebase.
             <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/next-ts">
-       🕶️ Nomad Movies Clone Coding    
+       🕶️ Nomad Coins Clone Coding    
     </a>
     <br/>
-    During the Nomad lecture, I brought Movies API, used Recoil, Next js and Typescript and implemented ssr.
+    During the Nomad lecture, I brought Coins API, used Recoil, Next js and Typescript and implemented ssr.
         <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/chatting_front">
        🏢 Bangsam 
