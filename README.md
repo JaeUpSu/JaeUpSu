@@ -111,7 +111,7 @@ and used Python in Django as a back end. 👏
 ### 👏 My Project 
  
 <div>
-    <a color="black"  href="https://velog.io/@hugh0223/MyInfo-%EB%82%98%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-Web">
+    <a color="black"  href="">
        🏃‍♂️ Runner 8
     </a>
     <br/>
