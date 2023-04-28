@@ -131,7 +131,7 @@ and used Python in Django as a back end. 👏
     <br/>
     A web that shows the type of dog that suits my personality, created using React and Firebase.
             <br/>    <br/>
-    <a color="black"  href="https://github.com/JaeUpSu/next-ts">
+    <a color="black"  href="https://github.com/JaeUpSu/ts-react-master">
        🕶️ Nomad Coins Clone Coding    
     </a>
     <br/>
