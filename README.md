@@ -156,5 +156,6 @@ and used Python in Django as a back end. 👏
 
 <div style="display: flex; justify-content: space-between;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="JaeUpSu's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu&layout=compact&theme=tokyonight" />
 </div>
 
