@@ -132,7 +132,7 @@ and used Python in Django as a back end. 👏
     A web that shows the type of dog that suits my personality, created using React and Firebase.
             <br/>    <br/>
     <a color="black"  href="https://github.com/JaeUpSu/ts-react-master">
-       🕶️ Nomad Coins Clone Coding    
+       🕶️ Nomad TS-ReactMaster Clone Coding +@ (Next.js)   
     </a>
     <br/>
     During the Nomad lecture, I brought Coins API, used Recoil, Next js and Typescript and implemented ssr.
