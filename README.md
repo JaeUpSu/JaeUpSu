@@ -164,7 +164,7 @@ and used Python in Django as a back end. 👏
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hugh223)](https://solved.ac/hugh223)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hugh223)](https://solved.ac/profile/hugh223)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeUpSu&layout=compact&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="JaeUpSu's GitHub Stats" />
 
