@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JaeUpSu-GitHub&fontSize=90)
 
+<br/>
+<br/>
+
 <div style={{display: "flex"}}>
     <a href="https://velog.io/@hugh0223"> 
         <img align="center" src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
