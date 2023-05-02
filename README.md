@@ -91,7 +91,6 @@ and used Python in Django as a back end. 👏
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>  
 </div>
 <br/>
-<br/>
 
 ### 📢 Communication 📢 
 <div style={{display: "flex"}}>
