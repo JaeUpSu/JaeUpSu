@@ -22,6 +22,9 @@
 
 <br/><br/>
 
+
+<div align="center">
+
 <h2>
     👋 Hi there! I'm web Front end developer  using React 
 </h2>
@@ -41,7 +44,6 @@ and used Python in Django as a back end. 👏
 
 <br>
 
-<div align="center">
 	
 ## 🦾 Skills
 
