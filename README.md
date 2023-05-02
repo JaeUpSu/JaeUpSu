@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JaeUpSu-GitHub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=JaeUpSu-GitHubr&fontSize=90)
 
 <div style={{display: "flex"}}>
     <a href="https://velog.io/@hugh0223"> 
