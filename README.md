@@ -53,7 +53,7 @@ and used Python in Django as a back end. 👏
 	
 ## 🦾 Skills
 
-### 🏞️ Platform & Languages
+### 🏞️ Platform & Languages 🏞️ 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -73,7 +73,7 @@ and used Python in Django as a back end. 👏
 
 <br/>
 
-### ⚒️ Tools
+### ⚒️ Tools ⚒️ 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=React-Query&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Hook_Form-EC5900?style=flat-square&logo=React_Hook_Form&logoColor=white"/>
@@ -91,7 +91,7 @@ and used Python in Django as a back end. 👏
 <br/>
 <br/>
 
-### 📢 Communication
+### 📢 Communication 📢 
 <div style={{display: "flex"}}>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>  
