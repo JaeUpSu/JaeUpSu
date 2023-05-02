@@ -42,6 +42,7 @@ and used Python in Django as a back end. 👏
 <br>
 
 <div align="center">
+	
 ## 🦾 Skills
 
 ### 🏞️ Platform & Languages
