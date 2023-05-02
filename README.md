@@ -1,7 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20HyeonSu&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
-	
+
+[![JaeUpSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugh223&show_icons=true&theme=synthwave)](https://github.com/JaeUpSu/github-readme-stats)
+
 
 
 <br/>
