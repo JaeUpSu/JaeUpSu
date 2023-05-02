@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20HyeonSu&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 	
-</div>
+
 
 <br/>
 <br/>
@@ -17,6 +17,8 @@
     <a href="mailto:hyeongs2323@gmail.com"> 
       <img align="center" src="https://img.shields.io/badge/hyeongs2323@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
+</div>
+	
 </div>
 
 <br/>
