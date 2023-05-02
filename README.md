@@ -51,7 +51,7 @@ and used Python in Django as a back end. 👏
 <br>
 
 	
-## 🦾 Skills
+## 🦾 Skills 🦾 
 
 ### 🏞️ Platform & Languages 🏞️ 
 <div style={{display: "flex"}}>
