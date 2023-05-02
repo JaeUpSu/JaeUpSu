@@ -5,6 +5,7 @@
 [![JaeUpSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&theme=synthwave)](https://github.com/JaeUpSu/github-readme-stats)
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hugh223)](https://solved.ac/hugh223)<br/>
 
 <br/>
 <br/>
