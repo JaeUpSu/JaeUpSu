@@ -174,6 +174,6 @@ and used Python in Django as a back end. 👏
 <br/>
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Frontend&desc=프론트엔드!&fontSize=60&rotate=14&fontAlignY=45&fontAlign=25&descAlignY=83&descAlign=20&&animation=twinkling)
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Frontend&desc=프론트엔드!&fontSize=60&rotate=14&fontAlignY=55&fontAlign=15&descAlignY=83&descAlign=30&&animation=twinkling)
 
 
