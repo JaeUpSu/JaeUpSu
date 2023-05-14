@@ -176,8 +176,10 @@ and used Python in Django as a back end. 👏
 <br/>
 <a color="black"  href="https://github.com/JaeUpSu/My-Front-Log/tree/main">
        🐾 My Front Log
-</a>
+</a> <-- click
+
 <br/>
+
 <img src="https://github.com/JaeUpSu/My-Front-Log/blob/main/Image/aniLog.gif"/>
 
     
