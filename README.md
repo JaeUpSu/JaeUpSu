@@ -174,10 +174,12 @@ and used Python in Django as a back end. 👏
 </div>
     
 <br/>
-<img src="https://github.com/JaeUpSu/My-Front-Log/blob/main/Image/aniLog.gif"/>
 <a color="black"  href="https://github.com/JaeUpSu/My-Front-Log/tree/main">
        🐾 My Front Log
 </a>
+<br/>
+<img src="https://github.com/JaeUpSu/My-Front-Log/blob/main/Image/aniLog.gif"/>
+
     
     
 <br/>
