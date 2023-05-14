@@ -174,6 +174,13 @@ and used Python in Django as a back end. 👏
 </div>
     
 <br/>
+<img src="https://github.com/JaeUpSu/My-Front-Log/blob/main/Image/aniLog.gif?raw=true"/>
+<a color="black"  href="https://github.com/JaeUpSu/My-Front-Log/tree/main">
+       🐾 My Front Log
+</a>
+    
+    
+<br/>
 <br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=Frontend&desc=프론트엔드!&fontSize=60&rotate=14&fontAlignY=75&fontAlign=20&descAlignY=93&descAlign=25&&animation=twinkling)
