@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JaeUpSu&theme=synthwave&hide_border=true&locale=ko)](https://git.io/streak-stats)<br>
 
-[![JaeUpSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&theme=synthwave)](https://github.com/JaeUpSu/github-readme-stats)<br>
+<!-- [![JaeUpSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeUpSu&show_icons=true&theme=synthwave)](https://github.com/JaeUpSu/github-readme-stats)<br> -->
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hugh223)](https://solved.ac/hugh223)<br/>
